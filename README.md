@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-qr-code-component-main)
-- Live Site URL: [Live site URL here](https://fm-qr-code-component-main-i6sb4jfiu-arteiusworkshop.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Live site URL here](https://fm-huddle-landing-page-with-single-introductory-section-master.vercel.app/)
 
 ## My process
 
